@@ -1,4 +1,5 @@
 # MINDS-Center-on-Knowledge-Graphs-Positions<br>
+# Sentiment Analyis and Visualization on Telegram Crypto Group Data<br><br>
 ***The project has been implemented on jupyter notebook***<br><br>
 Steps to run the project:<br>
 1) Download the folder from the github repository.
@@ -11,7 +12,7 @@ Steps to run the project:<br>
 
 
 ***Project explanation:***<br>
-1) Read json data using utf8 encoding.<br>
+1) Read json data using utf8 encoding (Data downloaded from crypto group in Telegram).<br>
 2) Created a dataframe for messages.<br>
 3) Created a New dataframe by removing columns which are not useful.<br>
 4) Created the date column by splitting the string into date and time at 'T'.<br>
