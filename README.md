@@ -37,7 +37,7 @@ It is expected that the library returns exactly 0.0 either if the sentence didnâ
 ***Visualization of the number of messages per day and the average sentiment per day using the
 plotly visualization library***<br><br>
 
-We have used scatter plot to potray the avg sentiment per day and the size of the bubble indicates the number of messages. On clicking the bubble we can find the number of messages as well as the avg sentiment for that day.
+We have used scatter plot to potray the avg sentiment per day and the size of the bubble indicates the number of messages. On clicking the bubble we can find the number of messages as well as the avg sentiment for that day. We can infer that May 10th has the highest number of  messages sent. May 1st has the highest positve sentiment and May 4th has the lowest posituve sentiment.
 ![Visualization](/Visualization.png)
 
 
