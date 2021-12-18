@@ -2,7 +2,7 @@
 # Sentiment Analyis and Visualization on Telegram Crypto Group Data<br><br>
 ***The project has been implemented on jupyter notebook***<br><br>
 Steps to run the project:<br>
-1) Download the folder from the github repository.
+1) Download the files from this github repository.
 2) Download Anaconda from https://www.anaconda.com/products/individual.<br>
 3) Install the version of Anaconda which you downloaded, following the instructions on the download page.<br>
 4) Congratulations, you have installed Jupyter Notebook. <br>
@@ -10,6 +10,11 @@ Steps to run the project:<br>
 6) Navigate to the downloaded folder and open Sentiment_Analysis_Notebook.ipynb<br>
 7) Find the kernel option on the menu tab and click restart and run all<br>
 
+***Repository Contents:***<br>
+README.md : Project Documentation and summary<br>
+Sentiment_Analysis_Notebook.ipynb : Python Notebook for sentiment analysis<br>
+Telegram_Data.json : Downloaded Data<br>
+Visualization.png : Image of Data Visualization<br>
 
 ***Project explanation:***<br>
 1) Read json data using utf8 encoding (Data downloaded from crypto group in Telegram).<br>
